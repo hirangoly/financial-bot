@@ -1,4 +1,4 @@
-To create a chat application powered by a Large Language Model (LLM) that connects to a financial dataset, interprets user queries, and provides insightful responses. ![image](https://github.com/user-attachments/assets/dde89ad9-0474-43d2-8f36-8a54627678fa)
+To create a chat application powered by a Large Language Model (LLM) that connects to a financial dataset, interprets user queries, and provides insightful responses.
 
 The solution is self-contained where you would need to run only one file fin_bot.py
 
